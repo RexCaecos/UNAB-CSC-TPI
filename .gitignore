@@ -1,5 +1,8 @@
-# Ignora notebook
-UNaB - CSC - Trabajo Práctico Integrador.ipynb
+# Ignora notebook y archivos granres
+UNaB_CSC_Trabajo_Práctico_Integrador.ipynb
+arbolado-en-espacios-verdes.dbf
+arbolado-publico-lineal-2017-2018.dbf
+arbolado-publico-lineal-2017-2018.geojson
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
